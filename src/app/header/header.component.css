@@ -1,0 +1,17 @@
+
+li:hover{
+  background: white;
+  
+  
+}
+a.ex:hover{
+  background: dodgerblue;
+}
+
+@media only screen and (max-width:500px){
+  #main{
+  width: 100%;
+  }
+}
+
+
